@@ -135,7 +135,7 @@ $ make go
 
 
 ### PHP
-We have two version of php protobuf implemention: pure php, php with c extension. To run these version benchmark, you need to:
+We have two version of php protobuf implementation: pure php, php with c extension. To run these version benchmark, you need to:
 #### Pure PHP
 ```
 $ make php
@@ -168,7 +168,7 @@ $ ./cpp-benchmark $(specific generated dataset file name) [$(benchmark options)]
 
 ### Python:
 
-For Python benchmark we have `--json` for outputing the json result
+For Python benchmark we have `--json` for outputting the json result
 
 #### Pure Python:
 
